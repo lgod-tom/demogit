@@ -1,1 +1,1 @@
-Hot garbage
+console.log("Hot garbage");
